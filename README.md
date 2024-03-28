@@ -8,7 +8,7 @@
 
 I am  ctzaleha, and I am a Ph.D student at [Universiti Teknologi Malaysia](https://www.utm.my). I am a passionate **Data Scientist** and **experienced lecturer** with **8 years** of teaching experience. My expertise lies in machine learning, data analysis, statistical modeling, and lecturing. I thoroughly enjoy exploring data, extracting insights, and building predictive models.
 
-## 📚 Courses
+## 📚 
 - 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
 - [Big Data Management](https://github.com/drshahizan/BDM)
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
