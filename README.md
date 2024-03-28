@@ -6,7 +6,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  ctzaleha, and I am a Ph.D student at [Universiti Teknologi Malaysia](https://www.utm.my). I am a passionate **Data Scientist** and **experienced lecturer** with **8 years** of teaching experience. My expertise lies in machine learning, data analysis, statistical modeling, and lecturing. I thoroughly enjoy exploring data, extracting insights, and building predictive models.
+I am  ctzaleha, and I am a Ph.D student at [Universiti Teknologi Malaysia](https://www.utm.my). I am a passionate **Data Scientist** and **experienced lecturer**. My expertise lies in machine learning, data analysis, statistical modeling, and lecturing. I thoroughly enjoy exploring data, extracting insights, and building predictive models.
 
 ## 📚 
 - 🆕 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
